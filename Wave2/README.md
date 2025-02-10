@@ -71,7 +71,7 @@ READMEでは、タイトルとキャッチコピーのみ表示しています�
 <details>
 <summary>1. Virtual Martial Innovators</summary>
 まだ見ぬ技を創り、後世に残せ  
-![Virtual Martial Innovators](/Wave2/GameImage/1Virtual Martial Innovators.png)
+![Virtual Martial Innovators](https://github.com/fukaken5/ICP_Hackathon2025/blob/main/Wave2/GameImage/1Virtual%20Martial%20Innovators.png?raw=true)
 </details>
 
 <details>
@@ -127,5 +127,5 @@ READMEでは、タイトルとキャッチコピーのみ表示しています�
 <details>
 <summary>10. グラフィティトレジャーハントリアル</summary>
 現実世界でアートを見つけ、デジタル宝物を手に入れろ  
-![グラフィティトレジャーハントリアル](Wave2/GameImage/グラフィティトレジャーハントリアル.png)
+![グラフィティトレジャーハントリアル](Wave2/GameImage/10.%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3%E3%83%88%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8F%E3%83%B3%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB.png)
 </details> 
