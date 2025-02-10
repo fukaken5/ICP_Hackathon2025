@@ -67,26 +67,65 @@ ICP Hackathon 2025のWave2プロジェクトです。
 ## 10のアイディエーション
 詳細は、[ICP_アイディエーションとその説明20250210](/Wave2/ICP_アイディエーションとその説明20250210.pptx) を参照願います。  
 READMEでは、タイトルとキャッチコピーのみ表示しています。  
-〇クリエイティブバトル系  
-1.　Virtual Martial Innovators  
-　まだ見ぬ技を創り、後世に残せ  
-2.　Katana -鍛冶道-  
-　一振りの剣に宿る歴史と未来――あなたの手で創り出す。――  
-3.　グラフィティバトルロワイヤル  
-　キャンバスは街全体、君の色で染め上げろ！  
-4.　グラフィティバトルアリーナ    
-　色彩の戦場へ――グラフィティで頂点を目指せ！  
-〇ボートゲーム・教育・シミュレーション系  
-5.　ICPいただきNFT  
-　楽しみながら学べる――ICPで始めるNFTの冒険！  
-6.　ICPアートギャラリー  
-　アートの未来がここに―ICPアートギャラリーで創造力を解き放て！  
-7.　Ultimate F1 Engineering  
-　究極のF1エンジニアリング――最速の夢を現実に！  
-〇クエスト系  
-7.　グラフィティクエスト@PLATEAU  
-　現実の都市を舞台に、デジタルアートの冒険へ  
-8.　グラフィティトレジャーハント@PLATEAU  
-　都市のアートを探せ、宝物を見つけろ  
-10.　グラフィティトレジャーハントリアル  
-　現実世界でアートを見つけ、デジタル宝物を手に入れろ  
+### 〇クリエイティブバトル系
+<details>
+<summary>1. Virtual Martial Innovators</summary>
+まだ見ぬ技を創り、後世に残せ  
+![Virtual Martial Innovators](/Wave2/GameImage/1Virtual Martial Innovators.png)
+</details>
+
+<details>
+<summary>2. Katana -鍛冶道-</summary>
+一振りの剣に宿る歴史と未来――あなたの手で創り出す。――  
+![Katana -鍛冶道-](Wave2/GameImage/Katana.png)
+</details>
+
+<details>
+<summary>3. グラフィティバトルロワイヤル</summary>
+キャンバスは街全体、君の色で染め上げろ！  
+![グラフィティバトルロワイヤル](/Wave2/GameImage/グラフィティバトルロワイヤル.png)
+</details>
+
+<details>
+<summary>4. グラフィティバトルアリーナ</summary>
+色彩の戦場へ――グラフィティで頂点を目指せ！  
+![グラフィティバトルアリーナ](Wave2/GameImage/グラフィティバトルアリーナ.png)
+</details>
+
+### 〇ボートゲーム・教育・シミュレーション系
+<details>
+<summary>5. ICPいただきNFT</summary>
+楽しみながら学べる――ICPで始めるNFTの冒険！  
+![ICPいただきNFT](Wave2/GameImage/ICPいただきNFT.png)
+</details>
+
+<details>
+<summary>6. ICPアートギャラリー</summary>
+アートの未来がここに―ICPアートギャラリーで創造力を解き放て！  
+![ICPアートギャラリー](Wave2/GameImage/ICPアートギャラリー.png)
+</details>
+
+<details>
+<summary>7. Ultimate F1 Engineering</summary>
+究極のF1エンジニアリング――最速の夢を現実に！  
+![Ultimate F1 Engineering](Wave2/GameImage/UltimateF1Engineering.png)
+</details>
+
+### 〇クエスト系
+<details>
+<summary>8. グラフィティクエスト@PLATEAU</summary>
+現実の都市を舞台に、デジタルアートの冒険へ  
+![グラフィティクエスト@PLATEAU](Wave2/GameImage/グラフィティクエスト@PLATEAU.png)
+</details>
+
+<details>
+<summary>9. グラフィティトレジャーハント@PLATEAU</summary>
+都市のアートを探せ、宝物を見つけろ  
+![グラフィティトレジャーハント@PLATEAU](Wave2/GameImage/グラフィティトレジャーハント@PLATEAU.png)
+</details>
+
+<details>
+<summary>10. グラフィティトレジャーハントリアル</summary>
+現実世界でアートを見つけ、デジタル宝物を手に入れろ  
+![グラフィティトレジャーハントリアル](Wave2/GameImage/グラフィティトレジャーハントリアル.png)
+</details> 
